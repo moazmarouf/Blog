@@ -23,7 +23,7 @@
                     <a href=""> <i class="fa fa-user fa-fw">&nbsp;users</i></a>
                 </li>
                 <li>
-                    <a href=""> <i class="fa fa-table fa-fw">&nbsp;Section</i></a>
+                    <a href="{{route('section.index')}}"> <i class="fa fa-table fa-fw">&nbsp;Section</i></a>
                 </li>
                 <li>
                     <a href=""> <i class="fa fa-photo fa-fw">&nbsp;Image</i></a>
